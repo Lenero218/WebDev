@@ -1,0 +1,5 @@
+ const myCalculator = require('./caluculator')
+ myCalculator.Addition(2,3)
+ myCalculator.Division(9,3)
+ myCalculator.Substraction(9,3)
+ myCalculator.Multiplication(2,3)
